@@ -1,0 +1,6 @@
+lưu token ổ đâu
+xác thực như thế nào
+s/s token
+
+coi từ authenhandle.go(trong cmd)
+tìm .env
